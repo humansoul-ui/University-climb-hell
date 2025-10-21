@@ -1,7 +1,7 @@
 # Hell Climb Racer 🚗💨
 
 A fun little project I made with a friend! 👯 This repository contains only the parts I developed, as I only had access to my portion of the code.
-![image alt] (https://github.com/humansoul-ui/University-climb-hell/blob/main/image.png)
+![image alt](https://github.com/humansoul-ui/University-climb-hell/blob/main/image.png)
 ## About the Game 🎮
 
 A single-mission driving game inspired by Hill Climb Racing where you must collect coins before the other player collects them! ⏱️
