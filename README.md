@@ -21,4 +21,4 @@ Download the game and have fun improving it! 🎉 Feel free to modify, expand, o
 
 ---
 
-**Fun Fact** 😄: You lose if you try to go in both directions at once! ↩️↪️
+**Fun Fact** 😄: You lose if you try to go in both directions anyway! ↩️↪️
